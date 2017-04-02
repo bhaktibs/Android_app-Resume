@@ -1,0 +1,10 @@
+{
+  "T1":"GunAway:",
+  "P1":"Developed web based service for online gun sellers which can help to prevent customers who are suffering from mental illness to buy firearms. Developed replica of EBay using MEAN stack to integrate GunAway service.",
+  "T2":"P​et’s Adoption Agency:",
+  "P2":" Designed and created a Database for pet adoption Agency where different organizations are registered to give away the pet to the adoptive customer. Individual person can also register him/herself to donate or adopt a pet, search using filters. Database created in MySQL.",
+  "T3":"Multithreaded Sorting Application:",
+  "P3":" A list of integers is divided into two smaller lists of equal size. Two separate threads sort each sub list using a sorting algorithm. The two sub lists are then merged by a third thread—a merging thread —which merges the two sub lists into a single list and use sorting algorithm to sort the list.",
+  "T4":"Sequence Learning in Simple Cerebellum Model:",
+  "P4":" Generated patterns for sequential learning in Cerebellum model using MATLAB. Trained and tested the patterns to demonstrate Cerebellar learning."
+}
